@@ -1,0 +1,21 @@
+#root {
+  /* max-width: 1280px; */
+  margin: 0 auto;
+  /* padding: 2rem; */
+  text-align: center;
+}
+
+
+
+body {
+  background-image: url("images/bg.png");
+  background-size: cover;
+  background-position: center;
+  /* height: 100vh; */
+}
+
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  padding: 100px;
+}
